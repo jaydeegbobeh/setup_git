@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # Github setup 
 
 - ### Find key in settings
@@ -11,6 +11,4 @@
   commit the changes you have made
 - ### git push -u origin main 
   push to github
-=======
-# Github setup
->>>>>>> cd2fb1bf3fce2d1d6c056c399ed2dcbe87c144d8
+
